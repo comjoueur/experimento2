@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1509412217 source:c:\users\sebastian\documents\nuevo_intento\network\main.cpp
+	<io.h>
+	<stdio.h>
+	<winsock2.h>
+	<iostream>
+	<thread>
+
+1509277988 c:\users\sebastian\documents\nuevo_intento\network\servicios_de_red.h
+	<iostream>
+
+1509278619 c:\users\sebastian\documents\nuevo_intento\network\sercicio_red.h
+	<winsock2.h>
+	<Windows.h>
+

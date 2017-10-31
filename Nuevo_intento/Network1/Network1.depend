@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1509412217 source:c:\users\sebastian\documents\nuevo_intento\network1\main.cpp
+	<io.h>
+	<stdio.h>
+	<winsock2.h>
+	<iostream>
+	<thread>
+
